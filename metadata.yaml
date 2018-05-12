@@ -1,0 +1,32 @@
+_repo: Emerson-and-Other-Essays_13088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, John Jay
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '4825'
+    url: http://www.gutenberg.org/2009/agents/4825
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13088'
+  lccn: '75108126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889'
+- !lcc 'PN'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+tableOfContents: Emerson -- Walt Whitman -- A study of Romeo -- Michael Angelo's sonnets
+  -- The fourth canto of the Inferno -- Robert Browning -- Robert Louis Stevenson.
+title: Emerson and Other Essays
+url: http://www.gutenberg.org/ebooks/13088
